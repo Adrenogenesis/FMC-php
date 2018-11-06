@@ -1,0 +1,48 @@
+[Info  - 11:48:15] 22 files total
+[Info  - 11:48:15] Indexing project for definitions and static references
+Parsing file:///var/www/html/Lexique/VCSS/form.php
+Parsing file:///var/www/html/Lexique/VCSS/index.php
+Parsing file:///var/www/html/Lexique/VCSS/title.php
+Parsing file:///var/www/html/Lexique/VCSS/header.php
+Parsing file:///var/www/html/Lexique/VCSS/html.php
+Parsing file:///var/www/html/Lexique/VCSS/textarea.php
+Parsing file:///var/www/html/Lexique/VCSS/body.php
+Parsing file:///var/www/html/Lexique/VCSS/input.php
+Parsing file:///var/www/html/Lexique/VCSS/b.php
+Parsing file:///var/www/html/Lexique/VCSS/select.php
+Parsing file:///var/www/html/Lexique/VCSS/h.php
+Parsing file:///var/www/html/Lexique/VCSS/link.php
+Parsing file:///var/www/html/Lexique/VCSS/a.php
+Parsing file:///var/www/html/Lexique/VCSS/div.php
+Parsing file:///var/www/html/Lexique/VCSS/menu.php
+Parsing file:///var/www/html/Lexique/VCSS/footer.php
+Parsing file:///var/www/html/Lexique/VCSS/head.php
+Parsing file:///var/www/html/Lexique/VCSS/img.php
+Parsing file:///var/www/html/Lexique/VCSS/p.php
+Parsing file:///var/www/html/Lexique/VCSS/table.php
+Parsing file:///var/www/html/Lexique/VCSS/commentaire.php
+Parsing file:///var/www/html/Lexique/VCSS/meta.php
+[Info  - 11:48:15] Indexing project for dynamic references
+Parsing file:///var/www/html/Lexique/VCSS/form.php
+Parsing file:///var/www/html/Lexique/VCSS/title.php
+Parsing file:///var/www/html/Lexique/VCSS/header.php
+Parsing file:///var/www/html/Lexique/VCSS/html.php
+Parsing file:///var/www/html/Lexique/VCSS/textarea.php
+Parsing file:///var/www/html/Lexique/VCSS/body.php
+Parsing file:///var/www/html/Lexique/VCSS/input.php
+Parsing file:///var/www/html/Lexique/VCSS/b.php
+Parsing file:///var/www/html/Lexique/VCSS/select.php
+Parsing file:///var/www/html/Lexique/VCSS/h.php
+Parsing file:///var/www/html/Lexique/VCSS/link.php
+Parsing file:///var/www/html/Lexique/VCSS/a.php
+Parsing file:///var/www/html/Lexique/VCSS/div.php
+Parsing file:///var/www/html/Lexique/VCSS/menu.php
+Parsing file:///var/www/html/Lexique/VCSS/footer.php
+Parsing file:///var/www/html/Lexique/VCSS/head.php
+Parsing file:///var/www/html/Lexique/VCSS/img.php
+Parsing file:///var/www/html/Lexique/VCSS/p.php
+Parsing file:///var/www/html/Lexique/VCSS/table.php
+Parsing file:///var/www/html/Lexique/VCSS/commentaire.php
+Parsing file:///var/www/html/Lexique/VCSS/meta.php
+[Info  - 11:48:15] 0 Packages
+[Info  - 11:48:15] All 22 PHP files parsed in 0 seconds. 140 MiB allocated.

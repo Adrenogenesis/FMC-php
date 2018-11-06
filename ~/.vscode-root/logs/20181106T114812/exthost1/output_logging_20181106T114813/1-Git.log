@@ -1,0 +1,240 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /var/www/html/Lexique
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :VCSS/index.php
+> git check-ignore -z --stdin
+> git ls-files --stage -- VCSS/
+> git show :VCSS/a.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/header.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/a.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/a.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/header.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/a.php
+> git ls-files --stage -- VCSS/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :VCSS/b.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/b.php
+> git ls-files --stage -- VCSS/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :VCSS/a.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/menu.php
+> git ls-files --stage -- VCSS/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/a.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/b.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/header.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/body.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/body.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/commentaire.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/body.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/commentaire.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/div.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/commentaire.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/div.php
+> git ls-files --stage -- VCSS/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :VCSS/form.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/form.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/h.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/footer.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/form.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/h.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/head.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/head.php
+> git ls-files --stage -- VCSS/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :VCSS/html.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/html.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/img.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/img.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/input.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/img.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/input.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/link.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/link.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/meta.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/meta.php
+> git ls-files --stage -- VCSS/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/p.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/h.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/form.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/p.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/header.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/p.php
+> git ls-files --stage -- VCSS/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :VCSS/h.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/p.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/select.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/select.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/table.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/select.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/table.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/textarea.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/textarea.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/title.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/index.php
+> git ls-files --stage -- VCSS/
+> git show :VCSS/title.php
+> git ls-files --stage -- VCSS/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :VCSS/menu.php
+> git ls-files --stage -- VCSS/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
